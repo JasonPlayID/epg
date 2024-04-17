@@ -293,6 +293,16 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_118.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
+  <channel id="UpinandIpin.id">
+    <display-name lang="id">Upin &amp; Ipin</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_119.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Molang.id">
+    <display-name lang="id">Molang</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_120.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
   <channel id="MTVLive.id">
     <display-name lang="id">MTV Live</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_148.png" />
@@ -5041,6 +5051,186 @@
   </programme>
   <programme start="20240417233000 +0700" stop="20240418000000 +0700" channel="TVRI.id">
     <title lang="id">TVRI</title>
+  </programme>
+  <programme start="20240417040000 +0700" stop="20240417043000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417043000 +0700" stop="20240417060000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417070000 +0700" stop="20240417080000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417080000 +0700" stop="20240417083000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417083000 +0700" stop="20240417090000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417090000 +0700" stop="20240417090300 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417090300 +0700" stop="20240417093000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417093000 +0700" stop="20240417100000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417100000 +0700" stop="20240417100300 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417100300 +0700" stop="20240417103000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417103000 +0700" stop="20240417110000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417110000 +0700" stop="20240417110300 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417110300 +0700" stop="20240417120000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417130000 +0700" stop="20240417133000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417133000 +0700" stop="20240417140000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417140000 +0700" stop="20240417140300 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417140300 +0700" stop="20240417143000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417143000 +0700" stop="20240417150000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417150000 +0700" stop="20240417150300 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417150300 +0700" stop="20240417153000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417153000 +0700" stop="20240417160000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417160000 +0700" stop="20240417170000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417170000 +0700" stop="20240417180000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417190000 +0700" stop="20240417203000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417203000 +0700" stop="20240417210000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417210000 +0700" stop="20240417213000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417213000 +0700" stop="20240417223000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417223000 +0700" stop="20240417233000 +0700" channel="UpinandIpin.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417233000 +0700" stop="20240418000000 +0700" channel="Molang.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20240417060000 +0700" stop="20240417070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240417120000 +0700" stop="20240417130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240417180000 +0700" stop="20240417190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240418000000 +0700" stop="20240418003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240418060000 +0700" stop="20240418070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240418120000 +0700" stop="20240418130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240418180000 +0700" stop="20240418190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240419000000 +0700" stop="20240419003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240419060000 +0700" stop="20240419070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240419130000 +0700" stop="20240419140000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240419180000 +0700" stop="20240419190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240420000000 +0700" stop="20240420003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240420060000 +0700" stop="20240420070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240420120000 +0700" stop="20240420130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240420180000 +0700" stop="20240420190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240421000000 +0700" stop="20240421003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240421060000 +0700" stop="20240421070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240421120000 +0700" stop="20240421130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240421180000 +0700" stop="20240421190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240422000000 +0700" stop="20240422003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240422060000 +0700" stop="20240422070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240422120000 +0700" stop="20240422130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240422180000 +0700" stop="20240422190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240423000000 +0700" stop="20240423003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240423060000 +0700" stop="20240423070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240423120000 +0700" stop="20240423130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240423180000 +0700" stop="20240423190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240424000000 +0700" stop="20240424003000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240424060000 +0700" stop="20240424070000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240424120000 +0700" stop="20240424130000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
+  </programme>
+  <programme start="20240424180000 +0700" stop="20240424190000 +0700" channel="Molang.id">
+    <title lang="id">Molang</title>
   </programme>
   <programme start="20240417040000 +0700" stop="20240417050000 +0700" channel="MTVLive.id">
     <title lang="id">MTV Rewind: 2012</title>
